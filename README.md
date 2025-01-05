@@ -43,27 +43,5 @@ The dataset contains information about various cars, with the following attribut
 - Developed a robust model to predict the most suitable country for manufacturing each car category.  
 - Provided actionable insights to enhance global profitability in car manufacturing.  
 
-### How to Run the Project:  
-1. Clone this repository:  
-   ```bash
-   git clone <repository-link>
-   ```  
-2. Navigate to the project directory:  
-   ```bash
-   cd car-analysis-prediction
-   ```  
-3. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-4. Run the Jupyter Notebook or Python script:  
-   ```bash
-   jupyter notebook
-   ```  
-
 ### Conclusion:  
 This project demonstrates the power of data analytics and predictive modeling in driving strategic decisions within the automotive industry. By leveraging Python and advanced ML/DL techniques, the project highlights a practical approach to optimizing manufacturing strategies for enhanced profitability.  
-
---- 
-
-Feel free to modify this further to align with your project specifics! 🚗✨
